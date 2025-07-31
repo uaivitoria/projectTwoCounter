@@ -1,2 +1,2 @@
-# projectTwoandThree
-Project two and three
+# projectTwo
+Project two
